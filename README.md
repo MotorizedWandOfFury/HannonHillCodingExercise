@@ -2,6 +2,7 @@ Hannon Hill Coding Exercise
 ========================
 
 Assumption:
+====================
 
 Let N = 12, and Secret encapsulate the function: f(x)
 
@@ -16,8 +17,10 @@ Secret(5+7) = Secret(5) + Secret(7)
 Secret(7+11) = Secret(7) + Secret(11)
 
 
-Example Functions:
 
+
+Example Functions:
+================================
 Secret returnMe = (int x) -> x;
         
 Secret add5Divide2 = (int x) -> {
