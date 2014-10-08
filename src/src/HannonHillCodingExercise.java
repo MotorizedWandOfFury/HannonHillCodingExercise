@@ -7,10 +7,6 @@
 
 package src;
 
-/**
- *
- * @author Ping
- */
 public class HannonHillCodingExercise {
 
     /**
@@ -27,9 +23,11 @@ public class HannonHillCodingExercise {
         
         System.out.print("Is returnMe additive? ");
         System.out.println(FunctionCheck.isAdditiveFunction(returnMe, 100));
+        //true
         
         System.out.print("Is add5Divide2 additive? "); 
         System.out.println(FunctionCheck.isAdditiveFunction(add5Divide2, 4));
+        //false
         
     }
     
