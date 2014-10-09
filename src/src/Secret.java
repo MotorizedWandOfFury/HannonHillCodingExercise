@@ -1,6 +1,3 @@
-/*
- * Represents an encapsulated mathmatical function
- */
 
 package src;
 
